@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Client",
+    "\\Client\\public",
+    "\\Client\\public\\css",
+    "\\Server",
+    "\\Server\\StickyNotes",
+    "\\Server\\StickyNotes\\Controllers",
+    "\\Server\\StickyNotes\\Models"
+  ],
+  "SelectedNode": "\\Server\\Server.sln",
+  "PreviewInSolutionExplorer": false
+}
